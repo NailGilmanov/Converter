@@ -1,2 +1,2 @@
 def f():
-    print('hello world')
+    print('yandex liceum')
