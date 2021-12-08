@@ -1,3 +1,2 @@
-print('heyheheyhey')
-print('third commit')
-print('dds')
+def f():
+    print('hello world')
